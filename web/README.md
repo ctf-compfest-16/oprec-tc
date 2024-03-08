@@ -9,7 +9,7 @@ Selain itu, kunjungan ke `http://<IP SERVER>:<MACHINE PORT>/admin` harus mengemb
 
 ## Spesifikasi Dockerfile
 - Python: v3.8
-- User: compfest15
+- User: compfest16
 - Container port: 1234
 - Working directory: /opt/peramal
 - Install semua modul python yang ada di `files/requirements.txt`
